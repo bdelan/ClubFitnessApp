@@ -1,0 +1,61 @@
+<ejercicios>
+	<ejercicio>
+		<tipo>bicicleta</tipo>
+		<subtipo>ejerPierna</subtipo>
+		<nombre>Bicicleta estatica</nombre>
+		<series>3</series>
+		<repeticiones>20</repeticiones>
+		<descanso>3 min</descanso>
+		<peso>N/A</peso>
+	</ejercicio>
+
+	<ejercicio>
+		<tipo>pesas</tipo>
+		<subtipo>ejerPecho</subtipo>
+		<nombre>Press banca</nombre>
+		<series>3</series>
+		<repeticiones>10</repeticiones>
+		<descanso>1 min</descanso>
+		<peso>15 kg</peso>
+	</ejercicio>
+
+	<ejercicio>
+		<tipo>abdominales</tipo>
+		<subtipo>ejerAbdominales</subtipo>
+		<nombre>Abdominales superiores</nombre>
+		<series>3</series>
+		<repeticiones>15</repeticiones>
+		<descanso>1 min</descanso>
+		<peso>N/A</peso>
+	</ejercicio>
+
+	<ejercicio>
+		<tipo>correr</tipo>
+		<subtipo>ejerPierna</subtipo>
+		<nombre>Carrera</nombre>
+		<series>3</series>
+		<repeticiones>15</repeticiones>
+		<descanso>1 min</descanso>
+		<peso>N/A</peso>
+	</ejercicio>
+
+	<ejercicio>
+		<tipo>pesas</tipo>
+		<subtipo>ejerPierna</subtipo>
+		<nombre>Prensa</nombre>
+		<series>3</series>
+		<repeticiones>15</repeticiones>
+		<descanso>1 min</descanso>
+		<peso>20 kg</peso>
+	</ejercicio>
+
+	<ejercicio>
+		<tipo>nadar</tipo>
+		<subtipo>ejerCompleto</subtipo>
+		<nombre>Nadar a crol</nombre>
+		<series>3</series>
+		<repeticiones>respirar cada 5 segundos</repeticiones>
+		<descanso>3 min</descanso>
+		<peso>N/A</peso>
+	</ejercicio>
+</ejercicios>

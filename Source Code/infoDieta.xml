@@ -1,0 +1,57 @@
+<dietas>
+	<dieta>
+		<dia>A diario</dia>
+		<mediamanana>Yogur desnatado con nueces</mediamanana>
+		<merienda>Zumo de fruta y 2 galletas integrales</merienda>
+		<suplementacion>Batido de proteinas (1 cazo) en agua o leche</suplementacion>
+	</dieta>
+
+	<dieta>
+		<dia>Lunes</dia>
+		<desayuno>Te verde, 1 tostada integral con tomate y 1 pieza de fruta</desayuno>
+		<comida>Ensalada con verduras asadas, 2 muslitos de pollo con puerros y 1 paraguaya</comida>
+		<cena>Sopa de tomate, tortilla de cebolla y pimientos verdes y melocoton con queso fresco</cena>
+	</dieta>
+
+	<dieta>
+		<dia>Martes</dia>
+		<desayuno>Cafe con leche desnatada, tazon de cereales integrales</desayuno>
+		<comida>Ensalada verde con maiz y manzana, conejo asado y 1 zumo de melon</comida>
+		<cena>Gazpacho andaluz, mejillones al vapor y yogur desnatado</cena>	
+	</dieta>
+
+	<dieta>
+		<dia>Miercoles</dia>
+		<desayuno>Te verde, 1 tostada integral con tomate y 1 pieza de fruta</desayuno>
+		<comida>Sardinas a la plancha y macedonia con yogur</comida>
+		<cena>Huevo al plato con guisantes, patatas al vapor y ciruelas</cena>
+	</dieta>
+
+	<dieta>
+		<dia>Jueves</dia>
+		<desayuno>Cafe con leche desnatada, tazon de cereales integrales</desayuno>
+		<comida>Sopa de garbanzos y zanahoria, pavo con verduras y sorbete de frambuesas</comida>
+		<cena>Ensalada de berros, pescadilla asada con patatas y cuajada</cena>
+	</dieta>
+
+	<dieta>
+		<dia>Viernes</dia>
+		<desayuno>Te verde, 1 tostada integral con tomate y 1 pieza de fruta</desayuno>
+		<comida>Verduras a la parrilla, sepia a la plancha y batido de yogur con arandanos</comida>
+		<cena>Ensalada de espinacas con aguacate, tosta de cebolleta y calabacin y sandia</cena>
+	</dieta>
+
+	<dieta>
+		<dia>Sabado</dia>
+		<desayuno>Cafe con leche desnatada, tazon de cereales integrales</desayuno>
+		<comida>Gazpacho de sandia solomillo a la plancha con arroz y manzana</comida>
+		<cena>Tosta integral con pisto, langostinos a la plancha y paraguayas</cena>
+	</dieta>
+
+	<dieta>
+		<dia>Domingo</dia>
+		<desayuno>Te verde, 1 tostada integral con tomate y 1 pieza de fruta</desayuno>
+		<comida>Macarrones integrales, brocheta de rape y gambas y sorbete de melocoton</comida>
+		<cena>Ensalada de patata cocida, hamburguesa de pavo y yogur desnatado</cena>
+	</dieta>
+</dietas>

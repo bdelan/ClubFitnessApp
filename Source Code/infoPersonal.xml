@@ -1,0 +1,55 @@
+<clientes>
+	<cliente>
+		<ID>1234</ID>
+		<nombre>6</nombre>
+		<apellido1>Cocos</apellido1>
+		<apellido2>Cocos</apellido2>
+		<telefono>665431234</telefono>
+		<direccion>Madrid C/ Madrid 1</direccion>
+		<sexo>Hombre</sexo>
+		<edad>25</edad>
+		<estatura>173</estatura>
+		<peso>72</peso>
+		<trabajo>Programador</trabajo>
+		<dieta>Estandar mantenimiento</dieta>
+		<otrasActividades>Estudiante</otrasActividades>
+		<objetivos>Mantenimiento fisico</objetivos>
+		<enfermedades>N/A</enfermedades>
+	</cliente>
+
+	<cliente>
+		<ID>567</ID>
+		<nombre>XxXxX</nombre>
+		<apellido1>XxXxX</apellido1>
+		<apellido2>XxXxX</apellido2>
+		<telefono>XxXxX</telefono>
+		<direccion>XxXxX</direccion>
+		<sexo>dadaec</sexo>
+		<edad>25</edad>
+		<estatura>180</estatura>
+		<peso>70</peso>
+		<trabajo>XxXxX</trabajo>
+		<dieta>Musculatura y mantenimiento</dieta>
+		<otrasActividades>XxXxX</otrasActividades>
+		<objetivos>Musculacion</objetivos>
+		<enfermedades>N/A</enfermedades>
+	</cliente>
+
+	<cliente>
+		<ID>123</ID>
+		<nombre>Borja</nombre>
+		<apellido1>Delgado</apellido1>
+		<apellido2>Angulo</apellido2>
+		<telefono>665483730</telefono>
+		<direccion>Madrid</direccion>
+		<sexo>Hombre</sexo>
+		<edad>25</edad>
+		<estatura>180</estatura>
+		<peso>74</peso>
+		<trabajo>Informatico</trabajo>
+		<dieta>Musculatura y mantenimiento</dieta>
+		<otrasActividades>Estudiante</otrasActividades>
+		<objetivos>Musculacion</objetivos>
+		<enfermedades>N/A</enfermedades>
+	</cliente>
+</clientes>
